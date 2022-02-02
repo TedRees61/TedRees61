@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TedRees61
 - 👀 I’m interested in learning new stuff with a view to developing my career in a different direction. 
-- Currently studying for M.Sc in Genomic medicine at Imperia College London.
+- Currently studying for M.Sc in Genomic medicine at Imperial College London.
 - Previous experience mainly Wholesale Finance including Trading, Risk Management and Regulation
-- 🌱 I’m currently learning about Machine Learning, Deep Learning, Bioinformatics
+- 🌱 I’m currently learning about Machine Learning, Deep Learning, Data Science & Bioinformatics
 - 💞️ I’m looking to collaborate on not much yet - still need to get up to speed on some basics
 - 📫 How to reach me ...
 
